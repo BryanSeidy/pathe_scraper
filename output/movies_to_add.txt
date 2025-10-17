@@ -1,0 +1,16 @@
+movie_title : "IMAX", duration : "122";
+movie_title : "C'était mieux demain", duration : "103";
+movie_title : "Moi qui t'aimais", duration : "118";
+movie_title : "Le Jour J", duration : "90";
+movie_title : "Le million", duration : "88";
+movie_title : "4DX", duration : "155";
+movie_title : "RESILIENCE / مصير إمرأة", duration : "90";
+movie_title : "Valeur sentimentale", duration : "134";
+movie_title : "Les imposteurs", duration : "110";
+movie_title : "Deux pianos", duration : "115";
+movie_title : "Now You See Me 2", duration : "129";
+movie_title : "BARZAKH / برزخ", duration : "84";
+movie_title : "La Voix de Hind Rajab / صوت هند رجب", duration : "89";
+movie_title : "Al Shater / الشاطر", duration : "110";
+movie_title : "La Voix de Hind Rajab / صوت هند رجب", duration : "89";
+movie_title : "Avant-première", duration : "97";
